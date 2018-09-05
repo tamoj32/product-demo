@@ -1,0 +1,3 @@
+/src/Account/Account.Domain/*.user
+/src/Account/Account.TokenProvider.API/*.user
+/src/Product/ProductService.API/*.user
