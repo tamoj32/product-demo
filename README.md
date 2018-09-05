@@ -28,4 +28,4 @@ URL: http://localhost:50050/swagger
 
 To query API, use Authorization value "Bearer <jwt token>"
   
-  
+To run Web API, Set Startup Projects as Account.TokenProvider.API, ProductService.API to start  
