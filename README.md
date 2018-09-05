@@ -13,9 +13,14 @@ To generate token, POST as x-www-form-urlencoded
 URL: http://localhost:57365/api/token
 
 Body: 
+
 grant_type: password
+
 username: admin
+
 password: admin123 
+
+Tools: https://www.getpostman.com/
 
 To view API, 
 
